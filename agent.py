@@ -95,7 +95,7 @@ def train():
     mean_scores = []
     total_score = 0
 
-    n_games = 300
+    n_games = 400
 
     for i in range(n_games):
         game.reset()
